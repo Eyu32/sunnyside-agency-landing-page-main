@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]([https://your-solution-url.com](https://github.com/Eyu32/sunnyside-agency-landing-page-main.git))
-- Live Site URL: [live site URL]([https://your-live-site-url.com](https://sunnyside-agency-landing-page-main-ochre.vercel.app/))
+- Solution URL: [solution URL]([https://your-solution-url.com](https://github.com/Eyu32/sunnyside-agency-landing-page-main.git)
+- Live Site URL: [live site URL]([https://your-live-site-url.com](https://sunnyside-agency-landing-page-main-ochre.vercel.app/)
 
 ## My process
 
